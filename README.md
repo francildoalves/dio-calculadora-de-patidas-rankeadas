@@ -88,7 +88,6 @@ cd dio-calculadora-de-patidas-rankeadas
 
 Este projeto está licenciado sob a Licença MIT.  
 Uso educacional e não comercial.  
-Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
