@@ -118,4 +118,4 @@ Para contribuir:
 
 ---
 
-> Projeto desenvolvido para fins educacionais no Bootcamp Savegnago Lógica de Programação da
+> Projeto desenvolvido para fins educacionais no Bootcamp Savegnago Lógica de Programação da [DIO - Digital Innovation One](https://www.dio.me/)
